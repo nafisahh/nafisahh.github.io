@@ -1,38 +1,22 @@
-## Welcome to Nafisa's Portfolio
+Every course has a goal or learning outcome. The learning outcomes of the course has been categorized into four major categories. 
+•	Rhetorical knowledge
+•	Critical thinking, reading and composing
+•	 Process
+•	 Knowledge convention.
+ 
+The rhetorical knowledge develops the students to learn writing in response to a variety of situations such the purpose, audience and context.
+ 
+Critical thinking, reading and composing is about learning to ask question and review your writing and that of others. This also involves learning the use reading or writing for inquiry. Using strategies to integrate your ideas with those of others.
+ 
+Process is developing the writing project from multiple drafts by rereading and rewriting. It provides an opportunity for collaboration and peer review therefore encouraging the social aspect of the writing process.
+ 
+Knowledge of convention is learning the different conventions and genres of writing. Understanding the difference in format, convention and design features of different forms of writing.
+ 
+It is surprising to learn that writing has a social aspect. I have never viewed writing as a process that could be collaborative. Having your work reviewed by peers, as you progress, will definitely improve your writing skill.
+ 
+I find the rhetorical knowledge a bit confusing but I know as learn more it will become clearer. 
+ 
+From the course outcome, I can tell that academic writing is different from the writing that is familiar to me. It appears more structured and follows certain conventions.
 
-You can use the [editor on GitHub](https://github.com/nafisahh/nafisahh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-This portfolio is created in fulfilment of the requirement of the ENG 101 course on EDX.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-My name is Nafisa Hassan . I am a Server Administrator. I am taking this course to improve my writing skills.
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nafisahh/nafisahh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
